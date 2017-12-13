@@ -1,6 +1,4 @@
 # News Game
-## Austin Keeler's News Game
-
 ### Game Name: What Spill?
   Oil spills are detrimental to ocean environment, and sadly, according to the U.S. Department of energy, 1.3 million gallons of oil is spilled every year. Yet, we don't hear about it in the news. The only time oil spills are reported is if they are major ones, like the Deepwater Horizon event in the Gulf of Mexico. Every time an oil spill happens it is detrimental to ocean life. There needs to be a change when it comes to extracting oil from the ocean or a switch to cleaner energy.
 
